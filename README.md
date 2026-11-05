@@ -82,3 +82,14 @@ Em desenvolvimento como parte da minha jornada de aprendizado em Análise de Dad
 ### Pacientes por canal de aquisição
 
 ![Gráfico de pacientes por canal](documentacao/grafico_pacientes_por_canal.png)
+## Principais resultados
+
+- **Procedimento com maior faturamento:** Bioestimulador.
+- **Procedimento com maior lucro estimado:** Bioestimulador, com R$ 52.250.
+- **Canal com maior número de pacientes distintos associados:** Instagram, com 96 pacientes.
+
+## Conclusão
+
+A análise mostrou que o bioestimulador apresentou o melhor resultado financeiro entre os procedimentos analisados. O Instagram foi o canal associado ao maior número de pacientes distintos na base.
+
+Esses resultados podem ajudar na tomada de decisões sobre estratégias comerciais, divulgação e planejamento financeiro da clínica.
