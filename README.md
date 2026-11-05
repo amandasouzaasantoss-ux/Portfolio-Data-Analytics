@@ -87,7 +87,11 @@ Em desenvolvimento como parte da minha jornada de aprendizado em Análise de Dad
 - **Procedimento com maior faturamento:** Bioestimulador.
 - **Procedimento com maior lucro estimado:** Bioestimulador, com R$ 52.250.
 - **Canal com maior número de pacientes distintos associados:** Instagram, com 96 pacientes.
+## Sobre os dados
 
+Este projeto utiliza uma base de dados totalmente fictícia, criada exclusivamente para fins de estudo e demonstração de habilidades em análise de dados.
+
+Os registros simulam a rotina de uma clínica de estética durante o ano de 2025. Nenhuma informação corresponde a pacientes ou estabelecimentos reais.
 ## Conclusão
 
 A análise mostrou que o bioestimulador apresentou o melhor resultado financeiro entre os procedimentos analisados. O Instagram foi o canal associado ao maior número de pacientes distintos na base.
