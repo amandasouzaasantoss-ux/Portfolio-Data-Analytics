@@ -1,0 +1,501 @@
+﻿agendamento_id,data,paciente_id,procedimento,profissional,status,valor_cobrado_brl,custo_variavel_estimado_brl,canal_aquisicao,tipo_paciente,forma_pagamento
+1,2025-11-24,P0071,Botox,Profissional A,Realizado,800,180,Indicação,Novo,Pix
+2,2025-12-13,P0023,Skinbooster,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+3,2025-01-16,P0060,Botox,Profissional C,Realizado,800,180,Instagram,Novo,Transferência
+4,2025-04-23,P0072,Peeling,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+5,2025-06-24,P0056,Bioestimulador,Profissional B,Realizado,1500,550,Instagram,Novo,Transferência
+6,2025-02-19,P0155,Bioestimulador,Profissional B,Realizado,1500,550,Instagram,Recorrente,Pix
+7,2025-07-13,P0076,Botox,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+8,2025-12-27,P0170,Botox,Profissional A,Realizado,800,180,Google,Novo,Cartão de crédito
+9,2025-02-21,P0117,Peeling,Profissional C,Realizado,300,70,Google,Novo,Dinheiro
+10,2025-07-01,P0180,Preenchimento labial,Profissional C,Realizado,1100,300,Instagram,Novo,Cartão de crédito
+11,2025-03-25,P0070,Peeling,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+12,2025-01-29,P0081,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Novo,Cartão de crédito
+13,2025-10-18,P0055,Skinbooster,Profissional C,Realizado,500,140,WhatsApp,Recorrente,Transferência
+14,2025-03-15,P0064,Bioestimulador,Profissional C,Realizado,1500,550,Google,Recorrente,Transferência
+15,2025-07-05,P0131,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Novo,Pix
+16,2025-03-20,P0175,Skinbooster,Profissional B,Realizado,500,140,Instagram,Recorrente,Transferência
+17,2025-11-02,P0065,Peeling,Profissional C,Não compareceu,0,0,Instagram,Novo,Não se aplica
+18,2025-12-16,P0165,Microagulhamento,Profissional B,Realizado,500,130,Instagram,Recorrente,Transferência
+19,2025-03-22,P0068,Peeling,Profissional C,Realizado,300,70,Indicação,Novo,Dinheiro
+20,2025-11-24,P0051,Microagulhamento,Profissional A,Não compareceu,0,0,Google,Novo,Não se aplica
+21,2025-10-04,P0001,Rinomodelação,Profissional C,Não compareceu,0,0,Google,Recorrente,Não se aplica
+22,2025-01-10,P0079,Botox,Profissional A,Realizado,800,180,Instagram,Novo,Pix
+23,2025-02-13,P0018,Skinbooster,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+24,2025-12-04,P0043,Peeling,Profissional B,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+25,2025-10-04,P0080,Rinomodelação,Profissional B,Realizado,1400,380,Google,Recorrente,Transferência
+26,2025-03-03,P0017,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Novo,Cartão de crédito
+27,2025-01-04,P0059,Botox,Profissional A,Realizado,800,180,Instagram,Recorrente,Pix
+28,2025-09-21,P0172,Preenchimento labial,Profissional B,Realizado,1100,300,Indicação,Novo,Transferência
+29,2025-05-05,P0105,Rinomodelação,Profissional A,Cancelado,0,0,Instagram,Novo,Não se aplica
+30,2025-12-04,P0109,Peeling,Profissional B,Realizado,300,70,WhatsApp,Novo,Pix
+31,2025-02-01,P0028,Peeling,Profissional A,Realizado,300,70,Indicação,Novo,Transferência
+32,2025-03-13,P0072,Peeling,Profissional B,Realizado,300,70,Indicação,Novo,Transferência
+33,2025-10-09,P0167,Botox,Profissional C,Realizado,800,180,Instagram,Novo,Cartão de crédito
+34,2025-03-27,P0124,Peeling,Profissional A,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+35,2025-03-26,P0100,Peeling,Profissional B,Realizado,300,70,WhatsApp,Recorrente,Transferência
+36,2025-12-23,P0170,Skinbooster,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+37,2025-04-08,P0015,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Recorrente,Pix
+38,2025-01-26,P0129,Microagulhamento,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+39,2025-09-18,P0018,Botox,Profissional C,Realizado,800,180,Instagram,Novo,Transferência
+40,2025-03-03,P0149,Microagulhamento,Profissional C,Realizado,500,130,Instagram,Novo,Transferência
+41,2025-12-03,P0134,Microagulhamento,Profissional B,Não compareceu,0,0,Google,Novo,Não se aplica
+42,2025-12-09,P0062,Skinbooster,Profissional B,Realizado,500,140,WhatsApp,Novo,Dinheiro
+43,2025-08-23,P0003,Bioestimulador,Profissional B,Realizado,1500,550,Instagram,Novo,Cartão de crédito
+44,2025-09-17,P0090,Bioestimulador,Profissional A,Realizado,1500,550,Indicação,Recorrente,Dinheiro
+45,2025-03-22,P0078,Peeling,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+46,2025-12-06,P0068,Botox,Profissional A,Realizado,800,180,Instagram,Novo,Dinheiro
+47,2025-05-25,P0088,Microagulhamento,Profissional A,Realizado,500,130,Google,Recorrente,Dinheiro
+48,2025-01-27,P0071,Botox,Profissional A,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+49,2025-03-08,P0042,Skinbooster,Profissional C,Realizado,500,140,WhatsApp,Recorrente,Pix
+50,2025-02-27,P0140,Botox,Profissional A,Realizado,800,180,Google,Novo,Transferência
+51,2025-03-07,P0094,Botox,Profissional A,Realizado,800,180,Google,Novo,Cartão de crédito
+52,2025-12-08,P0144,Botox,Profissional B,Realizado,800,180,Indicação,Novo,Cartão de crédito
+53,2025-04-01,P0046,Peeling,Profissional C,Realizado,300,70,Google,Recorrente,Cartão de crédito
+54,2025-05-17,P0098,Preenchimento labial,Profissional A,Realizado,1100,300,WhatsApp,Novo,Cartão de crédito
+55,2025-08-24,P0059,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Transferência
+56,2025-06-18,P0072,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Recorrente,Pix
+57,2025-03-01,P0149,Bioestimulador,Profissional B,Realizado,1500,550,Instagram,Novo,Transferência
+58,2025-06-26,P0112,Skinbooster,Profissional C,Realizado,500,140,Instagram,Recorrente,Cartão de crédito
+59,2025-05-11,P0001,Botox,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+60,2025-08-09,P0160,Botox,Profissional B,Realizado,800,180,Instagram,Recorrente,Dinheiro
+61,2025-12-08,P0104,Peeling,Profissional C,Realizado,300,70,Google,Novo,Cartão de crédito
+62,2025-08-04,P0174,Skinbooster,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+63,2025-07-27,P0078,Microagulhamento,Profissional B,Realizado,500,130,Indicação,Recorrente,Dinheiro
+64,2025-08-27,P0173,Peeling,Profissional A,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+65,2025-12-04,P0132,Botox,Profissional C,Realizado,800,180,Google,Novo,Cartão de crédito
+66,2025-12-11,P0051,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Cartão de crédito
+67,2025-09-01,P0117,Microagulhamento,Profissional B,Realizado,500,130,Indicação,Recorrente,Transferência
+68,2025-07-24,P0168,Preenchimento labial,Profissional C,Realizado,1100,300,Instagram,Novo,Transferência
+69,2025-04-23,P0119,Preenchimento labial,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+70,2025-08-22,P0171,Preenchimento labial,Profissional C,Cancelado,0,0,Google,Recorrente,Não se aplica
+71,2025-11-10,P0110,Rinomodelação,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+72,2025-09-01,P0064,Peeling,Profissional C,Realizado,300,70,Google,Recorrente,Cartão de crédito
+73,2025-05-21,P0074,Peeling,Profissional A,Realizado,300,70,Google,Recorrente,Dinheiro
+74,2025-10-04,P0039,Botox,Profissional A,Realizado,800,180,WhatsApp,Novo,Cartão de crédito
+75,2025-02-02,P0085,Peeling,Profissional C,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+76,2025-02-01,P0100,Preenchimento labial,Profissional C,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+77,2025-09-02,P0077,Botox,Profissional B,Realizado,800,180,WhatsApp,Novo,Transferência
+78,2025-04-23,P0125,Bioestimulador,Profissional A,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+79,2025-12-09,P0043,Skinbooster,Profissional B,Cancelado,0,0,Indicação,Novo,Não se aplica
+80,2025-07-21,P0170,Microagulhamento,Profissional A,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+81,2025-03-11,P0047,Rinomodelação,Profissional A,Cancelado,0,0,Google,Recorrente,Não se aplica
+82,2025-06-17,P0084,Preenchimento labial,Profissional B,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+83,2025-08-04,P0121,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Recorrente,Cartão de crédito
+84,2025-11-29,P0008,Botox,Profissional A,Realizado,800,180,Indicação,Novo,Cartão de crédito
+85,2025-05-03,P0172,Preenchimento labial,Profissional A,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+86,2025-12-25,P0043,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Novo,Dinheiro
+87,2025-02-25,P0080,Microagulhamento,Profissional C,Realizado,500,130,WhatsApp,Recorrente,Cartão de crédito
+88,2025-02-08,P0027,Microagulhamento,Profissional C,Realizado,500,130,Google,Novo,Pix
+89,2025-06-27,P0170,Microagulhamento,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+90,2025-01-07,P0126,Rinomodelação,Profissional A,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+91,2025-11-22,P0040,Rinomodelação,Profissional B,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+92,2025-11-12,P0124,Rinomodelação,Profissional B,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+93,2025-06-15,P0023,Rinomodelação,Profissional B,Realizado,1400,380,WhatsApp,Novo,Transferência
+94,2025-10-19,P0087,Microagulhamento,Profissional A,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+95,2025-04-04,P0091,Peeling,Profissional B,Realizado,300,70,Google,Recorrente,Dinheiro
+96,2025-10-12,P0049,Botox,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+97,2025-09-08,P0177,Microagulhamento,Profissional B,Realizado,500,130,WhatsApp,Recorrente,Pix
+98,2025-02-17,P0104,Bioestimulador,Profissional C,Realizado,1500,550,Indicação,Recorrente,Dinheiro
+99,2025-08-31,P0089,Microagulhamento,Profissional B,Não compareceu,0,0,Google,Recorrente,Não se aplica
+100,2025-12-26,P0079,Peeling,Profissional B,Realizado,300,70,Indicação,Novo,Cartão de crédito
+101,2025-06-11,P0177,Botox,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+102,2025-09-05,P0135,Bioestimulador,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+103,2025-04-10,P0093,Bioestimulador,Profissional A,Realizado,1500,550,Google,Novo,Cartão de crédito
+104,2025-05-21,P0142,Botox,Profissional B,Realizado,800,180,Indicação,Recorrente,Pix
+105,2025-01-07,P0121,Microagulhamento,Profissional B,Realizado,500,130,WhatsApp,Recorrente,Cartão de crédito
+106,2025-01-27,P0030,Bioestimulador,Profissional A,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+107,2025-02-07,P0039,Microagulhamento,Profissional A,Realizado,500,130,Google,Novo,Cartão de crédito
+108,2025-03-02,P0156,Microagulhamento,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+109,2025-08-19,P0151,Peeling,Profissional B,Realizado,300,70,Google,Novo,Pix
+110,2025-04-17,P0068,Skinbooster,Profissional C,Realizado,500,140,Instagram,Novo,Cartão de crédito
+111,2025-03-30,P0041,Microagulhamento,Profissional A,Realizado,500,130,WhatsApp,Recorrente,Transferência
+112,2025-05-30,P0074,Botox,Profissional C,Realizado,800,180,Google,Recorrente,Pix
+113,2025-12-18,P0161,Preenchimento labial,Profissional C,Realizado,1100,300,Indicação,Recorrente,Pix
+114,2025-10-06,P0069,Preenchimento labial,Profissional A,Realizado,1100,300,Instagram,Novo,Cartão de crédito
+115,2025-06-07,P0074,Microagulhamento,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+116,2025-12-19,P0070,Bioestimulador,Profissional C,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+117,2025-02-11,P0111,Microagulhamento,Profissional C,Realizado,500,130,Google,Recorrente,Pix
+118,2025-02-16,P0151,Preenchimento labial,Profissional A,Não compareceu,0,0,Google,Novo,Não se aplica
+119,2025-03-31,P0167,Peeling,Profissional B,Não compareceu,0,0,Google,Novo,Não se aplica
+120,2025-10-27,P0024,Peeling,Profissional B,Cancelado,0,0,Google,Recorrente,Não se aplica
+121,2025-06-20,P0042,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Recorrente,Dinheiro
+122,2025-12-06,P0010,Peeling,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+123,2025-05-10,P0104,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Recorrente,Transferência
+124,2025-01-28,P0093,Preenchimento labial,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+125,2025-01-27,P0141,Preenchimento labial,Profissional A,Realizado,1100,300,Google,Recorrente,Transferência
+126,2025-03-04,P0062,Botox,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+127,2025-10-10,P0105,Botox,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+128,2025-08-25,P0128,Botox,Profissional C,Realizado,800,180,Google,Recorrente,Transferência
+129,2025-09-05,P0117,Peeling,Profissional C,Realizado,300,70,Indicação,Recorrente,Cartão de crédito
+130,2025-11-03,P0018,Microagulhamento,Profissional B,Realizado,500,130,WhatsApp,Recorrente,Dinheiro
+131,2025-01-02,P0151,Bioestimulador,Profissional C,Realizado,1500,550,WhatsApp,Novo,Transferência
+132,2025-10-03,P0086,Peeling,Profissional C,Realizado,300,70,WhatsApp,Recorrente,Dinheiro
+133,2025-04-07,P0147,Skinbooster,Profissional B,Realizado,500,140,Indicação,Recorrente,Pix
+134,2025-06-12,P0098,Skinbooster,Profissional B,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+135,2025-01-19,P0152,Preenchimento labial,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+136,2025-02-21,P0004,Microagulhamento,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+137,2025-12-02,P0121,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Recorrente,Pix
+138,2025-06-18,P0098,Rinomodelação,Profissional B,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+139,2025-11-13,P0162,Botox,Profissional C,Realizado,800,180,Google,Novo,Pix
+140,2025-08-11,P0114,Botox,Profissional A,Realizado,800,180,Google,Novo,Pix
+141,2025-06-16,P0076,Rinomodelação,Profissional B,Realizado,1400,380,Google,Recorrente,Cartão de crédito
+142,2025-05-06,P0145,Microagulhamento,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+143,2025-03-31,P0098,Botox,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+144,2025-10-26,P0119,Preenchimento labial,Profissional C,Realizado,1100,300,Google,Recorrente,Dinheiro
+145,2025-12-08,P0074,Botox,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+146,2025-08-15,P0077,Bioestimulador,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+147,2025-08-22,P0051,Rinomodelação,Profissional B,Realizado,1400,380,WhatsApp,Novo,Cartão de crédito
+148,2025-07-15,P0148,Microagulhamento,Profissional B,Realizado,500,130,Google,Novo,Transferência
+149,2025-05-21,P0176,Botox,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+150,2025-05-27,P0156,Rinomodelação,Profissional B,Realizado,1400,380,Indicação,Novo,Dinheiro
+151,2025-12-14,P0161,Rinomodelação,Profissional A,Realizado,1400,380,Instagram,Recorrente,Transferência
+152,2025-01-18,P0034,Microagulhamento,Profissional A,Realizado,500,130,Google,Recorrente,Transferência
+153,2025-03-31,P0139,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Novo,Dinheiro
+154,2025-09-04,P0087,Rinomodelação,Profissional A,Realizado,1400,380,WhatsApp,Novo,Cartão de crédito
+155,2025-04-26,P0143,Rinomodelação,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+156,2025-01-08,P0032,Bioestimulador,Profissional B,Não compareceu,0,0,Google,Recorrente,Não se aplica
+157,2025-10-27,P0028,Peeling,Profissional C,Realizado,300,70,Indicação,Recorrente,Pix
+158,2025-11-14,P0157,Microagulhamento,Profissional A,Realizado,500,130,Instagram,Recorrente,Dinheiro
+159,2025-11-29,P0036,Peeling,Profissional A,Realizado,300,70,Instagram,Recorrente,Transferência
+160,2025-03-01,P0138,Botox,Profissional A,Realizado,800,180,WhatsApp,Recorrente,Dinheiro
+161,2025-12-10,P0108,Skinbooster,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+162,2025-12-02,P0158,Botox,Profissional B,Cancelado,0,0,Google,Novo,Não se aplica
+163,2025-12-20,P0114,Bioestimulador,Profissional B,Realizado,1500,550,Indicação,Recorrente,Pix
+164,2025-12-18,P0166,Bioestimulador,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+165,2025-05-22,P0117,Preenchimento labial,Profissional A,Realizado,1100,300,Indicação,Novo,Pix
+166,2025-06-20,P0145,Preenchimento labial,Profissional A,Realizado,1100,300,Instagram,Novo,Cartão de crédito
+167,2025-04-30,P0153,Bioestimulador,Profissional A,Realizado,1500,550,Google,Novo,Cartão de crédito
+168,2025-10-04,P0029,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Novo,Pix
+169,2025-07-03,P0151,Rinomodelação,Profissional B,Realizado,1400,380,Instagram,Novo,Dinheiro
+170,2025-01-27,P0135,Preenchimento labial,Profissional A,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+171,2025-08-18,P0132,Rinomodelação,Profissional C,Realizado,1400,380,Instagram,Recorrente,Cartão de crédito
+172,2025-11-11,P0078,Botox,Profissional B,Não compareceu,0,0,Instagram,Novo,Não se aplica
+173,2025-09-03,P0110,Rinomodelação,Profissional C,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+174,2025-12-31,P0021,Peeling,Profissional B,Realizado,300,70,Indicação,Novo,Cartão de crédito
+175,2025-05-21,P0141,Microagulhamento,Profissional C,Não compareceu,0,0,Google,Recorrente,Não se aplica
+176,2025-11-02,P0117,Microagulhamento,Profissional C,Realizado,500,130,WhatsApp,Novo,Pix
+177,2025-12-02,P0056,Skinbooster,Profissional B,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+178,2025-07-31,P0103,Bioestimulador,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+179,2025-08-07,P0096,Bioestimulador,Profissional A,Realizado,1500,550,WhatsApp,Novo,Pix
+180,2025-02-13,P0025,Botox,Profissional C,Cancelado,0,0,Google,Novo,Não se aplica
+181,2025-10-12,P0144,Botox,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+182,2025-07-30,P0014,Bioestimulador,Profissional B,Cancelado,0,0,Google,Recorrente,Não se aplica
+183,2025-02-23,P0055,Microagulhamento,Profissional A,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+184,2025-02-25,P0095,Bioestimulador,Profissional A,Não compareceu,0,0,Google,Novo,Não se aplica
+185,2025-08-08,P0160,Rinomodelação,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+186,2025-01-15,P0180,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Recorrente,Pix
+187,2025-04-03,P0145,Rinomodelação,Profissional C,Realizado,1400,380,WhatsApp,Novo,Cartão de crédito
+188,2025-11-21,P0136,Botox,Profissional A,Realizado,800,180,WhatsApp,Recorrente,Transferência
+189,2025-06-24,P0080,Preenchimento labial,Profissional C,Realizado,1100,300,Google,Novo,Pix
+190,2025-03-21,P0013,Preenchimento labial,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+191,2025-08-15,P0125,Skinbooster,Profissional C,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+192,2025-05-20,P0030,Preenchimento labial,Profissional B,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+193,2025-05-26,P0125,Skinbooster,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+194,2025-04-23,P0015,Peeling,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+195,2025-04-19,P0066,Rinomodelação,Profissional B,Realizado,1400,380,Google,Novo,Pix
+196,2025-09-12,P0045,Skinbooster,Profissional A,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+197,2025-09-14,P0019,Microagulhamento,Profissional B,Realizado,500,130,Instagram,Recorrente,Pix
+198,2025-08-24,P0148,Botox,Profissional B,Realizado,800,180,WhatsApp,Recorrente,Dinheiro
+199,2025-02-28,P0084,Peeling,Profissional A,Realizado,300,70,WhatsApp,Recorrente,Pix
+200,2025-08-12,P0063,Rinomodelação,Profissional B,Realizado,1400,380,WhatsApp,Novo,Transferência
+201,2025-06-08,P0057,Skinbooster,Profissional B,Realizado,500,140,Indicação,Novo,Pix
+202,2025-09-29,P0090,Microagulhamento,Profissional B,Realizado,500,130,Indicação,Novo,Pix
+203,2025-03-16,P0045,Bioestimulador,Profissional C,Realizado,1500,550,Indicação,Novo,Cartão de crédito
+204,2025-11-18,P0145,Peeling,Profissional C,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+205,2025-11-18,P0113,Bioestimulador,Profissional A,Realizado,1500,550,WhatsApp,Recorrente,Dinheiro
+206,2025-05-21,P0091,Microagulhamento,Profissional C,Realizado,500,130,Instagram,Recorrente,Transferência
+207,2025-08-20,P0095,Botox,Profissional B,Realizado,800,180,Instagram,Novo,Transferência
+208,2025-08-25,P0011,Microagulhamento,Profissional B,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+209,2025-11-06,P0039,Peeling,Profissional A,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+210,2025-06-25,P0130,Skinbooster,Profissional C,Realizado,500,140,Indicação,Novo,Cartão de crédito
+211,2025-12-29,P0135,Peeling,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+212,2025-07-10,P0105,Bioestimulador,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+213,2025-02-03,P0143,Bioestimulador,Profissional C,Realizado,1500,550,WhatsApp,Recorrente,Dinheiro
+214,2025-12-03,P0086,Microagulhamento,Profissional A,Realizado,500,130,Indicação,Recorrente,Dinheiro
+215,2025-12-02,P0034,Skinbooster,Profissional C,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+216,2025-10-14,P0033,Peeling,Profissional C,Realizado,300,70,Instagram,Recorrente,Dinheiro
+217,2025-01-10,P0047,Bioestimulador,Profissional A,Realizado,1500,550,Google,Recorrente,Cartão de crédito
+218,2025-04-26,P0020,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Novo,Dinheiro
+219,2025-11-13,P0097,Preenchimento labial,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+220,2025-12-21,P0043,Rinomodelação,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+221,2025-07-30,P0114,Bioestimulador,Profissional C,Realizado,1500,550,Google,Recorrente,Cartão de crédito
+222,2025-10-01,P0121,Preenchimento labial,Profissional A,Realizado,1100,300,Google,Recorrente,Transferência
+223,2025-05-25,P0129,Rinomodelação,Profissional C,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+224,2025-04-13,P0036,Rinomodelação,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+225,2025-07-10,P0133,Microagulhamento,Profissional A,Realizado,500,130,Google,Novo,Cartão de crédito
+226,2025-05-20,P0038,Peeling,Profissional B,Não compareceu,0,0,Instagram,Novo,Não se aplica
+227,2025-08-19,P0107,Bioestimulador,Profissional A,Realizado,1500,550,WhatsApp,Recorrente,Cartão de crédito
+228,2025-07-17,P0058,Botox,Profissional A,Realizado,800,180,Google,Novo,Dinheiro
+229,2025-03-16,P0074,Preenchimento labial,Profissional B,Realizado,1100,300,Indicação,Recorrente,Transferência
+230,2025-11-12,P0005,Botox,Profissional B,Realizado,800,180,Indicação,Novo,Transferência
+231,2025-02-26,P0061,Rinomodelação,Profissional B,Realizado,1400,380,Instagram,Novo,Cartão de crédito
+232,2025-08-03,P0118,Skinbooster,Profissional A,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+233,2025-11-02,P0162,Microagulhamento,Profissional C,Realizado,500,130,Indicação,Novo,Dinheiro
+234,2025-08-08,P0091,Botox,Profissional A,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+235,2025-12-07,P0135,Skinbooster,Profissional B,Realizado,500,140,Instagram,Novo,Transferência
+236,2025-08-29,P0096,Botox,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+237,2025-02-04,P0169,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Recorrente,Cartão de crédito
+238,2025-01-23,P0087,Bioestimulador,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+239,2025-12-23,P0035,Peeling,Profissional A,Realizado,300,70,WhatsApp,Novo,Dinheiro
+240,2025-04-14,P0011,Botox,Profissional B,Realizado,800,180,Google,Recorrente,Transferência
+241,2025-05-10,P0074,Botox,Profissional B,Realizado,800,180,Instagram,Recorrente,Dinheiro
+242,2025-03-05,P0112,Rinomodelação,Profissional B,Realizado,1400,380,WhatsApp,Recorrente,Dinheiro
+243,2025-04-06,P0095,Peeling,Profissional C,Cancelado,0,0,Google,Novo,Não se aplica
+244,2025-08-06,P0155,Botox,Profissional A,Cancelado,0,0,Google,Recorrente,Não se aplica
+245,2025-02-22,P0170,Botox,Profissional B,Realizado,800,180,Google,Recorrente,Transferência
+246,2025-03-27,P0090,Skinbooster,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+247,2025-11-11,P0164,Peeling,Profissional A,Realizado,300,70,Instagram,Recorrente,Dinheiro
+248,2025-09-20,P0008,Rinomodelação,Profissional A,Realizado,1400,380,WhatsApp,Novo,Cartão de crédito
+249,2025-02-04,P0093,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Novo,Transferência
+250,2025-07-09,P0020,Bioestimulador,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+251,2025-07-23,P0064,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Transferência
+252,2025-09-23,P0031,Peeling,Profissional B,Não compareceu,0,0,Google,Recorrente,Não se aplica
+253,2025-04-20,P0178,Microagulhamento,Profissional B,Realizado,500,130,Indicação,Novo,Cartão de crédito
+254,2025-02-07,P0114,Peeling,Profissional A,Realizado,300,70,Google,Recorrente,Pix
+255,2025-10-09,P0077,Microagulhamento,Profissional A,Realizado,500,130,Indicação,Recorrente,Cartão de crédito
+256,2025-03-04,P0061,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Recorrente,Dinheiro
+257,2025-08-28,P0034,Rinomodelação,Profissional C,Não compareceu,0,0,Instagram,Novo,Não se aplica
+258,2025-06-08,P0135,Peeling,Profissional B,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+259,2025-03-06,P0116,Bioestimulador,Profissional B,Realizado,1500,550,Google,Novo,Cartão de crédito
+260,2025-03-08,P0015,Peeling,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+261,2025-03-26,P0058,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Novo,Dinheiro
+262,2025-04-11,P0071,Skinbooster,Profissional A,Não compareceu,0,0,Google,Novo,Não se aplica
+263,2025-09-15,P0152,Skinbooster,Profissional C,Realizado,500,140,Indicação,Novo,Dinheiro
+264,2025-10-16,P0021,Botox,Profissional A,Realizado,800,180,Google,Novo,Transferência
+265,2025-11-13,P0128,Skinbooster,Profissional C,Realizado,500,140,Google,Recorrente,Transferência
+266,2025-05-06,P0077,Rinomodelação,Profissional B,Cancelado,0,0,Instagram,Novo,Não se aplica
+267,2025-03-22,P0124,Peeling,Profissional B,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+268,2025-11-07,P0082,Preenchimento labial,Profissional C,Realizado,1100,300,Google,Recorrente,Cartão de crédito
+269,2025-07-09,P0028,Microagulhamento,Profissional B,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+270,2025-03-04,P0064,Bioestimulador,Profissional A,Cancelado,0,0,Instagram,Novo,Não se aplica
+271,2025-05-29,P0108,Peeling,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+272,2025-10-23,P0049,Skinbooster,Profissional A,Realizado,500,140,WhatsApp,Recorrente,Transferência
+273,2025-06-07,P0024,Peeling,Profissional B,Realizado,300,70,WhatsApp,Novo,Cartão de crédito
+274,2025-10-26,P0013,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Recorrente,Dinheiro
+275,2025-10-02,P0111,Botox,Profissional A,Realizado,800,180,Google,Recorrente,Transferência
+276,2025-07-07,P0014,Botox,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+277,2025-10-11,P0099,Bioestimulador,Profissional C,Realizado,1500,550,WhatsApp,Recorrente,Pix
+278,2025-03-07,P0096,Botox,Profissional B,Cancelado,0,0,Google,Novo,Não se aplica
+279,2025-04-12,P0103,Microagulhamento,Profissional C,Não compareceu,0,0,Instagram,Novo,Não se aplica
+280,2025-01-20,P0122,Preenchimento labial,Profissional C,Realizado,1100,300,WhatsApp,Novo,Cartão de crédito
+281,2025-06-17,P0042,Microagulhamento,Profissional B,Realizado,500,130,Google,Recorrente,Transferência
+282,2025-12-29,P0122,Microagulhamento,Profissional A,Realizado,500,130,Google,Recorrente,Pix
+283,2025-08-02,P0177,Microagulhamento,Profissional C,Realizado,500,130,Instagram,Recorrente,Dinheiro
+284,2025-12-02,P0148,Rinomodelação,Profissional A,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+285,2025-03-29,P0098,Microagulhamento,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+286,2025-10-21,P0049,Skinbooster,Profissional A,Realizado,500,140,WhatsApp,Recorrente,Transferência
+287,2025-03-19,P0106,Peeling,Profissional C,Realizado,300,70,WhatsApp,Novo,Cartão de crédito
+288,2025-09-23,P0084,Preenchimento labial,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+289,2025-06-10,P0137,Preenchimento labial,Profissional B,Cancelado,0,0,Google,Recorrente,Não se aplica
+290,2025-11-09,P0064,Peeling,Profissional B,Realizado,300,70,Google,Novo,Dinheiro
+291,2025-05-28,P0177,Skinbooster,Profissional C,Realizado,500,140,WhatsApp,Recorrente,Transferência
+292,2025-06-28,P0074,Microagulhamento,Profissional A,Realizado,500,130,WhatsApp,Recorrente,Dinheiro
+293,2025-03-16,P0074,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Recorrente,Transferência
+294,2025-12-02,P0055,Bioestimulador,Profissional A,Cancelado,0,0,Google,Recorrente,Não se aplica
+295,2025-03-12,P0151,Botox,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+296,2025-12-09,P0164,Microagulhamento,Profissional A,Realizado,500,130,Instagram,Novo,Transferência
+297,2025-06-19,P0026,Skinbooster,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+298,2025-10-09,P0168,Preenchimento labial,Profissional B,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+299,2025-05-28,P0166,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Pix
+300,2025-03-31,P0010,Peeling,Profissional B,Realizado,300,70,WhatsApp,Novo,Dinheiro
+301,2025-01-20,P0146,Botox,Profissional C,Realizado,800,180,Instagram,Recorrente,Dinheiro
+302,2025-08-21,P0135,Skinbooster,Profissional B,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+303,2025-05-20,P0085,Preenchimento labial,Profissional A,Realizado,1100,300,WhatsApp,Recorrente,Cartão de crédito
+304,2025-01-08,P0076,Skinbooster,Profissional C,Realizado,500,140,Indicação,Novo,Transferência
+305,2025-08-07,P0023,Microagulhamento,Profissional B,Realizado,500,130,Instagram,Novo,Cartão de crédito
+306,2025-09-02,P0002,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Novo,Transferência
+307,2025-05-17,P0150,Bioestimulador,Profissional C,Realizado,1500,550,Instagram,Recorrente,Dinheiro
+308,2025-12-21,P0171,Preenchimento labial,Profissional A,Realizado,1100,300,WhatsApp,Recorrente,Cartão de crédito
+309,2025-07-27,P0080,Skinbooster,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+310,2025-07-08,P0057,Microagulhamento,Profissional A,Realizado,500,130,WhatsApp,Novo,Transferência
+311,2025-11-07,P0180,Bioestimulador,Profissional C,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+312,2025-05-07,P0021,Skinbooster,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+313,2025-02-09,P0016,Microagulhamento,Profissional C,Realizado,500,130,Indicação,Novo,Cartão de crédito
+314,2025-06-17,P0114,Rinomodelação,Profissional A,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+315,2025-02-16,P0015,Microagulhamento,Profissional B,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+316,2025-08-22,P0144,Microagulhamento,Profissional B,Realizado,500,130,Google,Novo,Transferência
+317,2025-05-11,P0056,Rinomodelação,Profissional C,Realizado,1400,380,Instagram,Novo,Transferência
+318,2025-06-26,P0139,Skinbooster,Profissional A,Realizado,500,140,Instagram,Recorrente,Pix
+319,2025-05-27,P0035,Peeling,Profissional C,Realizado,300,70,WhatsApp,Recorrente,Transferência
+320,2025-08-18,P0097,Rinomodelação,Profissional A,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+321,2025-03-02,P0101,Preenchimento labial,Profissional C,Não compareceu,0,0,Indicação,Novo,Não se aplica
+322,2025-01-02,P0077,Rinomodelação,Profissional B,Realizado,1400,380,WhatsApp,Recorrente,Cartão de crédito
+323,2025-05-07,P0040,Peeling,Profissional B,Realizado,300,70,Indicação,Novo,Pix
+324,2025-12-05,P0005,Peeling,Profissional A,Não compareceu,0,0,Indicação,Novo,Não se aplica
+325,2025-02-21,P0115,Microagulhamento,Profissional C,Realizado,500,130,Instagram,Novo,Pix
+326,2025-07-25,P0139,Peeling,Profissional A,Realizado,300,70,Instagram,Novo,Dinheiro
+327,2025-04-30,P0082,Rinomodelação,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+328,2025-06-04,P0057,Preenchimento labial,Profissional B,Não compareceu,0,0,Google,Recorrente,Não se aplica
+329,2025-02-01,P0045,Microagulhamento,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+330,2025-01-25,P0135,Bioestimulador,Profissional B,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+331,2025-03-18,P0048,Bioestimulador,Profissional C,Cancelado,0,0,WhatsApp,Novo,Não se aplica
+332,2025-04-26,P0119,Bioestimulador,Profissional A,Realizado,1500,550,WhatsApp,Recorrente,Cartão de crédito
+333,2025-07-18,P0053,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Recorrente,Dinheiro
+334,2025-02-17,P0014,Microagulhamento,Profissional B,Realizado,500,130,WhatsApp,Novo,Pix
+335,2025-04-07,P0172,Rinomodelação,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+336,2025-04-17,P0078,Rinomodelação,Profissional A,Realizado,1400,380,Indicação,Novo,Pix
+337,2025-09-03,P0053,Preenchimento labial,Profissional B,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+338,2025-05-25,P0137,Peeling,Profissional C,Cancelado,0,0,Google,Recorrente,Não se aplica
+339,2025-05-14,P0128,Bioestimulador,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+340,2025-06-13,P0081,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Novo,Cartão de crédito
+341,2025-01-09,P0150,Bioestimulador,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+342,2025-03-20,P0059,Preenchimento labial,Profissional B,Realizado,1100,300,Indicação,Recorrente,Dinheiro
+343,2025-05-12,P0165,Rinomodelação,Profissional C,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+344,2025-03-28,P0044,Skinbooster,Profissional A,Realizado,500,140,WhatsApp,Novo,Pix
+345,2025-09-26,P0172,Botox,Profissional A,Realizado,800,180,Instagram,Recorrente,Cartão de crédito
+346,2025-11-19,P0039,Preenchimento labial,Profissional A,Realizado,1100,300,Indicação,Recorrente,Dinheiro
+347,2025-01-31,P0124,Microagulhamento,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+348,2025-01-04,P0106,Microagulhamento,Profissional A,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+349,2025-10-02,P0129,Bioestimulador,Profissional C,Realizado,1500,550,WhatsApp,Novo,Pix
+350,2025-02-19,P0062,Microagulhamento,Profissional A,Realizado,500,130,Google,Recorrente,Dinheiro
+351,2025-07-23,P0104,Botox,Profissional B,Realizado,800,180,Indicação,Novo,Dinheiro
+352,2025-12-17,P0168,Rinomodelação,Profissional C,Realizado,1400,380,Instagram,Novo,Transferência
+353,2025-07-14,P0122,Peeling,Profissional A,Não compareceu,0,0,Instagram,Novo,Não se aplica
+354,2025-02-12,P0166,Peeling,Profissional B,Cancelado,0,0,Instagram,Novo,Não se aplica
+355,2025-04-28,P0122,Preenchimento labial,Profissional B,Não compareceu,0,0,Instagram,Novo,Não se aplica
+356,2025-12-17,P0145,Bioestimulador,Profissional C,Não compareceu,0,0,Instagram,Novo,Não se aplica
+357,2025-06-11,P0151,Botox,Profissional A,Realizado,800,180,WhatsApp,Novo,Dinheiro
+358,2025-03-25,P0146,Microagulhamento,Profissional B,Realizado,500,130,Google,Recorrente,Cartão de crédito
+359,2025-12-19,P0129,Skinbooster,Profissional C,Realizado,500,140,Google,Novo,Pix
+360,2025-08-12,P0088,Preenchimento labial,Profissional C,Realizado,1100,300,WhatsApp,Recorrente,Pix
+361,2025-11-21,P0126,Bioestimulador,Profissional A,Cancelado,0,0,Google,Recorrente,Não se aplica
+362,2025-08-10,P0170,Preenchimento labial,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+363,2025-05-07,P0022,Skinbooster,Profissional B,Realizado,500,140,Indicação,Recorrente,Cartão de crédito
+364,2025-07-19,P0028,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Recorrente,Transferência
+365,2025-07-04,P0027,Rinomodelação,Profissional A,Realizado,1400,380,Instagram,Novo,Transferência
+366,2025-08-18,P0132,Microagulhamento,Profissional B,Não compareceu,0,0,Instagram,Novo,Não se aplica
+367,2025-02-15,P0024,Bioestimulador,Profissional C,Não compareceu,0,0,Google,Recorrente,Não se aplica
+368,2025-01-07,P0100,Bioestimulador,Profissional A,Cancelado,0,0,Indicação,Novo,Não se aplica
+369,2025-12-17,P0036,Peeling,Profissional B,Realizado,300,70,Google,Recorrente,Transferência
+370,2025-03-16,P0112,Botox,Profissional B,Realizado,800,180,WhatsApp,Recorrente,Transferência
+371,2025-02-09,P0064,Bioestimulador,Profissional C,Realizado,1500,550,WhatsApp,Novo,Transferência
+372,2025-02-24,P0002,Preenchimento labial,Profissional B,Realizado,1100,300,Google,Recorrente,Dinheiro
+373,2025-08-14,P0167,Bioestimulador,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+374,2025-06-14,P0123,Microagulhamento,Profissional B,Realizado,500,130,Indicação,Recorrente,Dinheiro
+375,2025-05-30,P0148,Skinbooster,Profissional A,Cancelado,0,0,Google,Recorrente,Não se aplica
+376,2025-05-24,P0094,Rinomodelação,Profissional A,Cancelado,0,0,Indicação,Novo,Não se aplica
+377,2025-12-16,P0007,Rinomodelação,Profissional C,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+378,2025-08-13,P0178,Rinomodelação,Profissional A,Realizado,1400,380,WhatsApp,Recorrente,Cartão de crédito
+379,2025-11-21,P0065,Bioestimulador,Profissional C,Realizado,1500,550,Indicação,Recorrente,Transferência
+380,2025-02-07,P0123,Peeling,Profissional C,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+381,2025-10-06,P0180,Botox,Profissional C,Realizado,800,180,Instagram,Novo,Cartão de crédito
+382,2025-12-03,P0043,Skinbooster,Profissional C,Realizado,500,140,Instagram,Recorrente,Dinheiro
+383,2025-08-09,P0026,Botox,Profissional B,Realizado,800,180,Indicação,Novo,Transferência
+384,2025-07-11,P0174,Peeling,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+385,2025-01-13,P0076,Peeling,Profissional B,Realizado,300,70,Instagram,Novo,Cartão de crédito
+386,2025-06-28,P0117,Bioestimulador,Profissional A,Realizado,1500,550,WhatsApp,Recorrente,Transferência
+387,2025-02-19,P0082,Peeling,Profissional A,Cancelado,0,0,Google,Novo,Não se aplica
+388,2025-12-30,P0088,Botox,Profissional C,Realizado,800,180,Instagram,Novo,Cartão de crédito
+389,2025-09-22,P0041,Preenchimento labial,Profissional B,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+390,2025-04-29,P0162,Rinomodelação,Profissional A,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+391,2025-07-22,P0051,Botox,Profissional B,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+392,2025-01-03,P0053,Skinbooster,Profissional B,Realizado,500,140,Instagram,Novo,Cartão de crédito
+393,2025-07-07,P0118,Bioestimulador,Profissional A,Realizado,1500,550,Google,Recorrente,Dinheiro
+394,2025-11-02,P0101,Peeling,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+395,2025-06-30,P0159,Rinomodelação,Profissional A,Cancelado,0,0,Google,Novo,Não se aplica
+396,2025-12-11,P0031,Preenchimento labial,Profissional A,Realizado,1100,300,Google,Novo,Cartão de crédito
+397,2025-07-11,P0131,Skinbooster,Profissional B,Realizado,500,140,WhatsApp,Novo,Transferência
+398,2025-08-05,P0163,Preenchimento labial,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+399,2025-09-08,P0048,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Novo,Dinheiro
+400,2025-01-05,P0050,Peeling,Profissional B,Realizado,300,70,WhatsApp,Recorrente,Transferência
+401,2025-08-01,P0126,Skinbooster,Profissional A,Cancelado,0,0,Instagram,Novo,Não se aplica
+402,2025-04-23,P0071,Bioestimulador,Profissional A,Realizado,1500,550,Google,Novo,Transferência
+403,2025-10-17,P0141,Skinbooster,Profissional C,Cancelado,0,0,Instagram,Novo,Não se aplica
+404,2025-05-18,P0094,Rinomodelação,Profissional C,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+405,2025-10-07,P0027,Preenchimento labial,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+406,2025-01-17,P0090,Peeling,Profissional A,Realizado,300,70,WhatsApp,Novo,Cartão de crédito
+407,2025-04-18,P0177,Rinomodelação,Profissional B,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+408,2025-11-12,P0053,Preenchimento labial,Profissional A,Realizado,1100,300,Google,Recorrente,Cartão de crédito
+409,2025-06-15,P0075,Skinbooster,Profissional C,Realizado,500,140,Google,Novo,Cartão de crédito
+410,2025-07-30,P0168,Botox,Profissional A,Realizado,800,180,Indicação,Novo,Cartão de crédito
+411,2025-12-31,P0174,Bioestimulador,Profissional B,Realizado,1500,550,WhatsApp,Novo,Dinheiro
+412,2025-11-18,P0116,Peeling,Profissional A,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+413,2025-09-21,P0178,Skinbooster,Profissional B,Realizado,500,140,WhatsApp,Recorrente,Dinheiro
+414,2025-10-25,P0118,Botox,Profissional C,Realizado,800,180,Google,Novo,Transferência
+415,2025-04-22,P0127,Peeling,Profissional B,Realizado,300,70,Google,Recorrente,Dinheiro
+416,2025-10-08,P0145,Microagulhamento,Profissional B,Realizado,500,130,Google,Novo,Pix
+417,2025-02-20,P0005,Skinbooster,Profissional A,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+418,2025-08-22,P0052,Botox,Profissional C,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+419,2025-03-23,P0024,Rinomodelação,Profissional C,Realizado,1400,380,Google,Recorrente,Pix
+420,2025-07-10,P0014,Skinbooster,Profissional B,Realizado,500,140,Google,Novo,Transferência
+421,2025-12-02,P0001,Botox,Profissional A,Realizado,800,180,WhatsApp,Novo,Cartão de crédito
+422,2025-10-31,P0175,Preenchimento labial,Profissional B,Não compareceu,0,0,Instagram,Novo,Não se aplica
+423,2025-12-23,P0109,Bioestimulador,Profissional C,Realizado,1500,550,Indicação,Recorrente,Pix
+424,2025-04-28,P0027,Peeling,Profissional A,Realizado,300,70,Google,Recorrente,Dinheiro
+425,2025-03-12,P0165,Peeling,Profissional C,Realizado,300,70,Indicação,Novo,Pix
+426,2025-11-09,P0113,Skinbooster,Profissional B,Realizado,500,140,Indicação,Novo,Transferência
+427,2025-11-12,P0056,Skinbooster,Profissional A,Cancelado,0,0,Instagram,Novo,Não se aplica
+428,2025-03-05,P0090,Microagulhamento,Profissional B,Cancelado,0,0,Google,Novo,Não se aplica
+429,2025-05-07,P0064,Bioestimulador,Profissional C,Realizado,1500,550,Google,Novo,Dinheiro
+430,2025-04-16,P0131,Microagulhamento,Profissional A,Não compareceu,0,0,WhatsApp,Recorrente,Não se aplica
+431,2025-11-27,P0127,Botox,Profissional B,Realizado,800,180,Instagram,Novo,Transferência
+432,2025-11-23,P0136,Microagulhamento,Profissional A,Realizado,500,130,Google,Recorrente,Cartão de crédito
+433,2025-07-18,P0108,Rinomodelação,Profissional B,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+434,2025-02-07,P0018,Botox,Profissional A,Não compareceu,0,0,Google,Novo,Não se aplica
+435,2025-01-21,P0130,Botox,Profissional B,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+436,2025-12-26,P0164,Peeling,Profissional C,Realizado,300,70,Indicação,Recorrente,Pix
+437,2025-06-08,P0053,Botox,Profissional A,Não compareceu,0,0,Google,Recorrente,Não se aplica
+438,2025-10-28,P0080,Skinbooster,Profissional C,Realizado,500,140,WhatsApp,Novo,Pix
+439,2025-05-06,P0030,Botox,Profissional B,Cancelado,0,0,Instagram,Recorrente,Não se aplica
+440,2025-12-08,P0031,Skinbooster,Profissional A,Realizado,500,140,Indicação,Novo,Cartão de crédito
+441,2025-09-12,P0133,Bioestimulador,Profissional C,Não compareceu,0,0,Google,Novo,Não se aplica
+442,2025-07-10,P0031,Preenchimento labial,Profissional A,Realizado,1100,300,Google,Recorrente,Dinheiro
+443,2025-09-26,P0148,Botox,Profissional C,Realizado,800,180,Instagram,Recorrente,Transferência
+444,2025-09-19,P0128,Bioestimulador,Profissional C,Realizado,1500,550,Indicação,Recorrente,Cartão de crédito
+445,2025-05-11,P0147,Rinomodelação,Profissional C,Realizado,1400,380,Instagram,Novo,Pix
+446,2025-01-23,P0063,Rinomodelação,Profissional A,Realizado,1400,380,WhatsApp,Recorrente,Transferência
+447,2025-03-18,P0142,Preenchimento labial,Profissional C,Realizado,1100,300,WhatsApp,Novo,Dinheiro
+448,2025-05-08,P0070,Peeling,Profissional A,Realizado,300,70,Google,Novo,Pix
+449,2025-04-02,P0012,Preenchimento labial,Profissional B,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+450,2025-05-25,P0084,Rinomodelação,Profissional A,Realizado,1400,380,WhatsApp,Novo,Dinheiro
+451,2025-04-13,P0078,Bioestimulador,Profissional C,Não compareceu,0,0,Indicação,Recorrente,Não se aplica
+452,2025-07-08,P0051,Microagulhamento,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+453,2025-01-04,P0060,Peeling,Profissional C,Realizado,300,70,Google,Novo,Dinheiro
+454,2025-01-01,P0079,Rinomodelação,Profissional A,Cancelado,0,0,Indicação,Novo,Não se aplica
+455,2025-08-03,P0037,Peeling,Profissional C,Realizado,300,70,Google,Novo,Pix
+456,2025-04-29,P0106,Rinomodelação,Profissional C,Não compareceu,0,0,Google,Recorrente,Não se aplica
+457,2025-02-13,P0130,Microagulhamento,Profissional A,Realizado,500,130,WhatsApp,Novo,Pix
+458,2025-08-11,P0061,Skinbooster,Profissional B,Realizado,500,140,Google,Recorrente,Transferência
+459,2025-12-25,P0082,Rinomodelação,Profissional B,Realizado,1400,380,Google,Novo,Pix
+460,2025-04-14,P0028,Preenchimento labial,Profissional A,Não compareceu,0,0,Instagram,Novo,Não se aplica
+461,2025-08-19,P0105,Peeling,Profissional A,Realizado,300,70,Google,Novo,Transferência
+462,2025-06-07,P0031,Peeling,Profissional A,Realizado,300,70,Indicação,Recorrente,Pix
+463,2025-04-21,P0038,Rinomodelação,Profissional A,Realizado,1400,380,Indicação,Recorrente,Transferência
+464,2025-09-20,P0067,Botox,Profissional A,Realizado,800,180,Instagram,Recorrente,Transferência
+465,2025-10-12,P0064,Skinbooster,Profissional A,Não compareceu,0,0,WhatsApp,Novo,Não se aplica
+466,2025-03-13,P0016,Botox,Profissional A,Realizado,800,180,Indicação,Novo,Transferência
+467,2025-07-10,P0150,Skinbooster,Profissional C,Realizado,500,140,Google,Novo,Pix
+468,2025-02-03,P0033,Preenchimento labial,Profissional A,Cancelado,0,0,Google,Novo,Não se aplica
+469,2025-01-22,P0044,Peeling,Profissional C,Realizado,300,70,WhatsApp,Recorrente,Transferência
+470,2025-01-16,P0045,Peeling,Profissional B,Cancelado,0,0,Indicação,Novo,Não se aplica
+471,2025-05-21,P0039,Bioestimulador,Profissional A,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+472,2025-09-13,P0123,Peeling,Profissional A,Não compareceu,0,0,Instagram,Recorrente,Não se aplica
+473,2025-07-16,P0052,Preenchimento labial,Profissional C,Cancelado,0,0,Indicação,Novo,Não se aplica
+474,2025-07-15,P0123,Rinomodelação,Profissional C,Realizado,1400,380,WhatsApp,Recorrente,Dinheiro
+475,2025-07-18,P0007,Bioestimulador,Profissional B,Realizado,1500,550,Indicação,Novo,Dinheiro
+476,2025-01-30,P0136,Rinomodelação,Profissional B,Cancelado,0,0,Indicação,Novo,Não se aplica
+477,2025-02-21,P0069,Preenchimento labial,Profissional C,Realizado,1100,300,Instagram,Novo,Transferência
+478,2025-07-01,P0046,Rinomodelação,Profissional A,Realizado,1400,380,Google,Recorrente,Pix
+479,2025-12-27,P0146,Skinbooster,Profissional C,Realizado,500,140,Indicação,Novo,Transferência
+480,2025-10-05,P0126,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Cartão de crédito
+481,2025-11-05,P0135,Preenchimento labial,Profissional B,Realizado,1100,300,Instagram,Recorrente,Cartão de crédito
+482,2025-03-08,P0083,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Cartão de crédito
+483,2025-02-26,P0094,Rinomodelação,Profissional A,Não compareceu,0,0,Google,Recorrente,Não se aplica
+484,2025-10-28,P0078,Botox,Profissional B,Realizado,800,180,Indicação,Novo,Transferência
+485,2025-11-24,P0045,Peeling,Profissional C,Realizado,300,70,Google,Novo,Cartão de crédito
+486,2025-07-13,P0033,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Recorrente,Pix
+487,2025-04-04,P0157,Microagulhamento,Profissional A,Realizado,500,130,Instagram,Recorrente,Cartão de crédito
+488,2025-06-19,P0061,Skinbooster,Profissional B,Realizado,500,140,Google,Novo,Pix
+489,2025-12-29,P0115,Skinbooster,Profissional A,Realizado,500,140,Google,Novo,Cartão de crédito
+490,2025-12-21,P0066,Botox,Profissional A,Realizado,800,180,Instagram,Novo,Transferência
+491,2025-08-13,P0043,Skinbooster,Profissional B,Cancelado,0,0,WhatsApp,Recorrente,Não se aplica
+492,2025-06-29,P0026,Microagulhamento,Profissional B,Cancelado,0,0,Indicação,Novo,Não se aplica
+493,2025-08-20,P0076,Botox,Profissional A,Realizado,800,180,Google,Recorrente,Pix
+494,2025-02-07,P0097,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Novo,Dinheiro
+495,2025-11-01,P0008,Microagulhamento,Profissional B,Cancelado,0,0,Indicação,Recorrente,Não se aplica
+496,2025-03-22,P0085,Botox,Profissional A,Realizado,800,180,Indicação,Recorrente,Dinheiro
+497,2025-12-05,P0061,Bioestimulador,Profissional A,Realizado,1500,550,Instagram,Recorrente,Transferência
+498,2025-03-20,P0001,Botox,Profissional B,Realizado,800,180,Instagram,Recorrente,Transferência
+499,2025-04-13,P0053,Botox,Profissional A,Realizado,800,180,Google,Novo,Transferência
+500,2025-03-01,P0121,Bioestimulador,Profissional B,Cancelado,0,0,Google,Novo,Não se aplica
